@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/12/09 09:37:20.600.pas,D:\Users\wellington.silva\Documents\RAD Studio\Projects\Unit7.pas=D:\Users\wellington.silva\Desktop\CriteriaAPI\Example\uMain.pas</Transaction>
+    <Transaction>2016/12/09 09:37:20.600.dfm,D:\Users\wellington.silva\Documents\RAD Studio\Projects\Unit7.dfm=D:\Users\wellington.silva\Desktop\CriteriaAPI\Example\uMain.dfm</Transaction>
+    <Transaction>2016/12/09 09:37:48.682.dproj,D:\Users\wellington.silva\Documents\RAD Studio\Projects\Project3.dproj=D:\Users\wellington.silva\Desktop\CriteriaAPI\Example\CriteriaAPI.dproj</Transaction>
+    <Transaction>2016/12/09 09:46:05.620.pas,D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\Agfa.API.Core.Repository.ORM.Annotation.pas=D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\Criteria.Annotation.pas</Transaction>
+    <Transaction>2016/12/09 09:46:14.887.pas,D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\Criteria.Annotation.pas=D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\uCriteria.Annotation.pas</Transaction>
+    <Transaction>2016/12/09 09:46:22.697.pas,D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\Agfa.API.Core.Repository.ORM.Criteria.Criterion.pas=D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\uCriteria.Criterion.pas</Transaction>
+    <Transaction>2016/12/09 09:46:30.741.pas,D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\Agfa.API.Core.Repository.ORM.Criteria.Order.pas=D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\uCriteria.Order.pas</Transaction>
+    <Transaction>2016/12/09 09:46:36.836.pas,D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\Agfa.API.Core.Repository.ORM.Criteria.pas=D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\uCriteria.pas</Transaction>
+    <Transaction>2016/12/09 09:46:42.234.pas,D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\Agfa.API.Core.Repository.ORM.Criteria.Projection.pas=D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\uCriteria.Projection.pas</Transaction>
+    <Transaction>2016/12/09 09:46:47.767.pas,D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\Agfa.API.Core.Repository.ORM.SQLParse.pas=D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\uSQLParse.pas</Transaction>
+    <Transaction>2016/12/09 09:47:07.729.pas,D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\Agfa.API.Core.Repository.ORM.Utils.pas=D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Criteria\uCriteria.Utils.pas</Transaction>
+    <Transaction>2016/12/09 09:47:21.512.pas,D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Helper\Afga.API.Helper.AGStringBuilder.pas=D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Helper\uStringBuilderHelper.pas</Transaction>
+    <Transaction>2016/12/09 09:47:33.494.pas,D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Wrapper\Agfa.API.Wrapper.Generics.Casts.pas=D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Wrapper\uWrapper.Generics.Casts.pas</Transaction>
+    <Transaction>2016/12/09 09:47:41.008.pas,D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Wrapper\Agfa.API.Wrapper.NullableTypes.pas=D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Wrapper\uWrapper.NullableTypes.pas</Transaction>
+    <Transaction>2016/12/09 09:57:01.879.pas,D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Helper\uStringBuilderHelper.pas=D:\Users\wellington.silva\Desktop\CriteriaAPI\API\Helper\uHelper.StringBuilder.pas</Transaction>
+  </Transactions>
+</BorlandProject>
