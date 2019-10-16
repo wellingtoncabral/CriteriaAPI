@@ -1,6 +1,6 @@
 #Criteria API
 
-The Criteria API allows you to build up a criteria query object programmatically where you can apply filtration rules and logical conditions.
+The Criteria Delphi API allows you to build up a criteria query object programmatically where you can apply filtration rules and logical conditions.
 
 The Criteria interface provides methods which can be used to create a Criteria object that returns instances of the persistence object's class when your application executes a criteria query.
 
